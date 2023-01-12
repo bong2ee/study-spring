@@ -22,4 +22,4 @@
 		<li>Person 객체 : <%=(person == null)? "값 없음" : ((Person)person).getName() %></li>
 	</ul>
 </body>
-</html>
+</html> 
